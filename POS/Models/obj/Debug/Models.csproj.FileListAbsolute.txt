@@ -1,0 +1,7 @@
+C:\Users\neto\Source\Repos\POS\Models\bin\Debug\Models.exe.config
+C:\Users\neto\Source\Repos\POS\Models\bin\Debug\Models.exe
+C:\Users\neto\Source\Repos\POS\Models\bin\Debug\Models.pdb
+C:\Users\neto\Source\Repos\POS\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\neto\Source\Repos\POS\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\neto\Source\Repos\POS\Models\obj\Debug\Models.exe
+C:\Users\neto\Source\Repos\POS\Models\obj\Debug\Models.pdb

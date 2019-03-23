@@ -1,0 +1,14 @@
+C:\Users\neto\Source\Repos\POS\POS\bin\Debug\POS.exe.config
+C:\Users\neto\Source\Repos\POS\POS\bin\Debug\POS.exe
+C:\Users\neto\Source\Repos\POS\POS\bin\Debug\POS.pdb
+C:\Users\neto\Source\Repos\POS\POS\bin\Debug\Models.exe
+C:\Users\neto\Source\Repos\POS\POS\bin\Debug\Models.pdb
+C:\Users\neto\Source\Repos\POS\POS\bin\Debug\Models.exe.config
+C:\Users\neto\Source\Repos\POS\POS\obj\Debug\POS.csprojAssemblyReference.cache
+C:\Users\neto\Source\Repos\POS\POS\obj\Debug\POS.Form1.resources
+C:\Users\neto\Source\Repos\POS\POS\obj\Debug\POS.Properties.Resources.resources
+C:\Users\neto\Source\Repos\POS\POS\obj\Debug\POS.csproj.GenerateResource.cache
+C:\Users\neto\Source\Repos\POS\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
+C:\Users\neto\Source\Repos\POS\POS\obj\Debug\POS.csproj.CopyComplete
+C:\Users\neto\Source\Repos\POS\POS\obj\Debug\POS.exe
+C:\Users\neto\Source\Repos\POS\POS\obj\Debug\POS.pdb

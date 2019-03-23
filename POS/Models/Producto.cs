@@ -23,5 +23,7 @@ namespace Models
          public String CODIGOBAR {get;set;}
 
         public Int32 CODPRODUCTO { get; set; }
+
+        public String NOMBRE { get; set; }
     }
 }
